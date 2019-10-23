@@ -11,4 +11,10 @@ public @interface GAALMod {
 
     String modId();
 
+    String name() default "";
+    /**
+     * A version string for this mod
+     */
+    String version() default "";
+
 }

@@ -13,6 +13,7 @@ Features:
 * Math wrapper. (**TODO**)
 * Rendering wrapper for LWJGL. (**TODO**)
 * Mod loader wrapper. (**TODO**)
+* Mod loader agnosticism.
 
 # FAQ
 > ## How does GAAL work?

@@ -22,6 +22,6 @@ Features:
 >* **The API** - A set of header like interfaces and classes meant to be as barebones as possible. 
 > * **The Implementation**. A per minecraft version (any modloader) implementation of the GAAL API.
 > ## Do GAAL implementations act as another mod library?
-> Absolutely not, the end should never have to download GAAL as an additional file, GAAL is packaged alongside any mod that uses it, not separately downloaded.
+> Absolutely not, the end user should never have to download GAAL as an additional file, GAAL is packaged alongside any mod that uses it, not separately downloaded.
 > * GAAL API can be easily forked and modified for specific mod requirements.  
 > * End user doesn't have to worry about downloading any additional files, plug and play.

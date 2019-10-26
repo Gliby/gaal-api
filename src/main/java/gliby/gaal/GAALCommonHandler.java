@@ -21,7 +21,7 @@ public class GAALCommonHandler {
     public GAALMod loadMod() {
         Manifest manifest = getManifest();
         if (manifest != null) {
-//            System.out.println("manifest main: " + manifest);
+            System.out.println("manifest main: " + manifest);
 
             String className = "";
             try {
